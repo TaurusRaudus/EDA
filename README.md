@@ -18,19 +18,19 @@ Visualizacion: Word-Cloud en Python
 
 # Archivos incluidos
 
-##ProyectoFinalEDA.cpp
+## ProyectoFinalEDA.cpp
 Aqui se encuentra la implementacion de las estructuras que sostienen el proyecto, aqui se ejecuta la simulacion.
 
-##preproc.h
+## preproc.h
 Aqui se encuentran las funciones necesarias para ejecutar el preprocesamiento, se incluye stopwords, stemming
 
-##KM.txt
+## KM.txt
 Configuraciones iniciales para K y M
 
-##topm.csv
+## topm.csv
 Archivo CSV vacio
 
-##WC.py
+## WC.py
 Codigo en python que contiene la implementacion de la Wordcloud
 
 # Pasos para ejecutar
